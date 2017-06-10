@@ -1,0 +1,49 @@
+body {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 13px 30px;
+  display: inline-block;
+  font-size: 24px;
+  float: right;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+  padding: 0.8em 0;
+}
+
+h1, h2 {
+  text-transform: uppercase;
+  border-bottom: 4px solid #000;
+  display: inline-block;
+  font-weight: 800;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+}
